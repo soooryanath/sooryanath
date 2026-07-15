@@ -1,136 +1,123 @@
-# 👋 Hello, I'm Soorya Nath Manikantan
+# Hi 👋 I'm Soorya Nath Manikantan
 
-## 🎓 Electronics Engineer | Test Automation Specialist
+## 🎓 About Me
+- **MSc Smart Electronic Systems** | RTU Riga, 2026
+- **BEng Electronics & Communication** | Vinayaka Missions, India, 2022
+- **Hardware Test & Validation Engineer** | Python | Cadence Virtuoso
+- **Location:** Riga, Latvia 🇱🇻
 
-MSc Smart Electronic Systems from RTU Riga (2026)  
-BEng Electronics & Communication from Vinayaka Missions (2022)
+## 🔧 Core Expertise
 
----
+### Hardware Testing & Validation
+- **ATE (Automated Test Equipment)** development & optimization
+- **IC Test Engineering** - Test program design & validation
+- **Statistical Quality Control** - Cpk analysis, SPC
+- **Multi-sensor data acquisition** & real-time signal processing
 
-## 🎯 What I Do
+### Design & Simulation
+- **Cadence Virtuoso** - Schematic design, ADE Explorer, Transient analysis
+- **IC Design** - 14-bit pipelined ADC (thesis project)
+- **Verilog HDL** - Behavioral modeling & simulation
+- **Signal Analysis** - Matplotlib, NumPy, SciPy
 
-I design and implement **automated test systems** for semiconductors and electronics:
-- **Hardware Test Automation:** Voltage tolerance checking, multi-sensor data acquisition
-- **Test Data Analysis:** Statistical process capability (Cpk), quality metrics
-- **Python Test Frameworks:** CSV logging, PDF reporting, real-time validation
-
----
-
-## 📊 Featured Projects
-
-### 1️⃣ [Voltage Test Logger](https://github.com/soooryanath/voltage-test-logger)
-**Automated Tolerance Checker for Hardware Testing**
-
-Demonstrates core ATE workflow: measure → validate → log → report
-- Real-time pass/fail checking against spec limits
-- Timestamped CSV logging with statistics
-- Mean, std dev, min/max calculations
-- **Skills:** Python, CSV I/O, tolerance checking, automation
-
-**🔗 [View Project](https://github.com/soooryanath/voltage-test-logger)**
+### Programming & Automation
+- **Python** - Test automation, data analysis, visualization
+- **Test Frameworks** - Custom ATE software development
+- **GitHub** - Version control, CI/CD ready projects
+- **Linux/Bash** - Comfortable with command-line tools
 
 ---
 
-### 2️⃣ [Multi-Sensor DAQ System](https://github.com/soooryanath/multi-sensor-daq)
-**Networked Instrument Data Acquisition**
+## 💼 Portfolio Projects
 
-Advanced ATE architecture: parallel instrument communication + synchronized logging
-- Simultaneous multi-channel sensor reading (2+ devices over WiFi)
-- HTTP/REST API integration with PhyPhox sensors
-- Real-time tolerance checking on parallel channels
-- Error handling, retry logic, timeout management
-- **Skills:** Network programming, multi-threading, API integration, HTTP/REST
+### 1️⃣ **Voltage Test Logger**
+*Automated voltage testing system with statistical analysis*
 
-**🔗 [View Project](https://github.com/soooryanath/multi-sensor-daq)**
+- **Tech:** Python, NumPy, CSV automation
+- **Features:** Real-time voltage monitoring, pass/fail detection, CSV logging
+- **Skills:** Test automation, data logging, Python
+- **Status:** ✅ Production-ready
 
----
-
-### 3️⃣ [Measurement Analysis Tool](https://github.com/soooryanath/measurement-analysis-tool)
-**Statistical Analysis & PDF Report Generation**
-
-Professional 4-panel data analysis reports with industry-standard metrics
-- **Cpk Calculation:** Process capability index (semiconductor industry standard)
-- **4-Panel Reports:** Histogram, trend line, statistics, pie chart
-- **PDF Export:** Professional, publication-ready reports
-- **Data Validation:** Robust error handling
-- **Skills:** Data analysis, statistical calculations, matplotlib visualization, PDF generation
-
-**🔗 [View Project](https://github.com/soooryanath/measurement-analysis-tool)**
+📍 [View Repository](https://github.com/soooryanath/voltage-test-logger)
 
 ---
 
-## 🏆 Technical Skills
+### 2️⃣ **Multi-Sensor Data Acquisition Suite**
+*IoT hardware testing platform for multi-channel sensor validation*
 
-### Hardware & Test Engineering
-- Cadence Virtuoso (Schematic, ADE Explorer) - **Official Certifications**
-- 14-bit Pipelined ADC Design
-- Verilog HDL
-- Transient Analysis & Signal Integrity
-- Cpk & Process Capability Analysis
+- **Tech:** Python, REST API, multi-threading, error handling
+- **Features:** Concurrent sensor polling, network resilience, formatted reporting
+- **Skills:** ATE test development, IoT integration, robust error handling
+- **Status:** ✅ Production-ready
 
-### Software & Test Automation
-- Python (pandas, numpy, matplotlib)
-- Test Automation Frameworks
-- CSV I/O & Data Logging
-- HTTP/REST APIs
-- Git & GitHub
-
-### Electronics Knowledge
-- IC Design & Testing
-- Hardware Validation
-- Automated Test Equipment (ATE)
-- Tolerance Checking & Quality Metrics
-- Multi-sensor Systems
+📍 [View Repository](https://github.com/soooryanath/multi-sensor-daq)
 
 ---
 
-## 📜 Certifications
+### 3️⃣ **Measurement Analysis Tool**
+*Statistical quality control & process capability analysis*
 
-✅ **Cadence Virtuoso Schematic Editor S1** (vIC23.1 Exam)  
-✅ **Cadence ADE Explorer & Assembler S1** (vIC23.1 Exam)  
-✅ **Embedded Systems Fundamentals** (BSS Certification)  
-✅ **IoT Foundations** (NPTEL)  
+- **Tech:** Python, Matplotlib, PDF generation, statistical computing
+- **Features:** Cpk calculation, capability analysis, automated PDF reports
+- **Skills:** Quality engineering, SPC, data visualization
+- **Status:** ✅ Production-ready
 
----
-
-## 🎓 Education
-
-**MSc Smart Electronic Systems**  
-RTU Riga, Latvia (2026)  
-- ADC Design Thesis (14-bit pipelined architecture)
-- Cadence & Verilog simulation
-- Signal processing & analog design
-
-**BEng Electronics & Communication**  
-Vinayaka Missions Research Foundation, India (2022)  
+📍 [View Repository](https://github.com/soooryanath/measurement-analysis-tool)
 
 ---
 
-## 💡 What Stands Out
+## 🎯 Technical Skills
 
-I combine **hardware design expertise** (Cadence, Verilog, ADC) with **practical test automation** (Python, data analysis, Cpk). My 3 GitHub projects demonstrate the **complete ATE workflow**:
-
-1. **Project 1:** Basic tolerance checking (foundation)
-2. **Project 2:** Multi-sensor networking (advanced architecture)
-3. **Project 3:** Statistical analysis (industry metrics)
-
-This progression shows **progressive complexity** and understanding of **full test engineering lifecycle**.
-
----
-
-## 🚀 Looking For
-
-**Roles:** Hardware Test Engineer | ATE Engineer | Test Validation Engineer | IC Test Engineer
-
-**Companies:** Semiconductor test specialists, IC manufacturers, test equipment developers
-
-**Locations:** Singapore 🇸🇬 | Netherlands 🇳🇱 | Germany 🇩🇪 | India 🇮🇳 | UAE 🇦🇪
+| Category | Skills |
+|----------|--------|
+| **Test Engineering** | ATE, IC Testing, Test Automation, SPC, Cpk Analysis |
+| **Hardware Design** | Cadence Virtuoso, Schematic Design, Verilog, ADC Design |
+| **Programming** | Python, Bash, Git |
+| **Data Analysis** | NumPy, Pandas, Matplotlib, SciPy |
+| **Tools & Platforms** | Linux, GitHub, Cadence ADE, SPICE |
 
 ---
 
-## 📫 Get In Touch
+## 📜 Certifications & Achievements
 
-**Email:** soooryanath@gmail.com  
-**Phone:** +37125575075  
-**LinkedIn:** linkedin.com/in/sooryanathmanikantan  
-**GitHub:** github.com/soooryanath
+✅ **Cadence Virtuoso Schematic Editor S1** (vIC23.1)  
+✅ **Cadence Virtuoso ADE Explorer & Assembler S1** (vIC23.1)  
+✅ **14-bit Pipelined ADC Design** - Thesis project  
+✅ **RTU Riga MSc Graduate** - June 2026  
+
+---
+
+## 🎤 Open to Opportunities
+
+Actively seeking **Hardware Test Engineer** roles in:
+- 🇮🇳 **India** (Bangalore, Hyderabad)
+- 🇸🇬 **Singapore**
+- 🇳🇱 **Netherlands**
+- 🇩🇪 **Germany**
+- 🌍 Other European locations
+
+**Timeline:** Ready to start August 2026
+
+---
+
+## 📞 Let's Connect
+
+- **Email:** soooryanath@gmail.com
+- **LinkedIn:** [linkedin.com/in/sooryanathmanikantan](https://linkedin.com/in/sooryanathmanikantan)
+- **GitHub:** [@soooryanath](https://github.com/soooryanath)
+- **Phone:** +37125575075
+
+---
+
+## 💡 What I'm Learning
+
+Currently exploring:
+- Advanced ATE architecture design
+- Real-time signal processing at scale
+- Cadence mixed-signal design flows
+- Semiconductor test methodology optimization
+
+---
+
+*Last updated: July 2026*
+*GitHub stats: 3 public projects | 100% code quality focus*
