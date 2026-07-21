@@ -211,37 +211,10 @@ Electronics Engineer holding an MSc in Smart Electronic Systems from Riga Techni
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soooryanath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2CBF&icon_color=5A189A&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=soooryanath&theme=tokyonight&hide_border=true&background=0D1117&ring=7B2CBF&fire=5A189A&currStreakLabel=7B2CBF" alt="GitHub Streak" width="48%" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soooryanath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2CBF&cache_seconds=86400" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soooryanath&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=soooryanath&theme=react-dark&bg_color=0D1117&color=7B2CBF&line=5A189A&point=ffffff&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/soooryanath/soooryanath/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
