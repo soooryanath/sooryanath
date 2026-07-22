@@ -10,14 +10,14 @@
   <img src="https://img.shields.io/badge/M.Sc.%20Smart%20Electronic%20Systems-7B2CBF?style=for-the-badge&logo=academic&logoColor=white" alt="Academic" />
   <img src="https://img.shields.io/badge/Location-Riga,%20Latvia-5A189A?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   <br><br>
-  <a href="https://github.com/soooryanath"><img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/sooryanathmanikantan"><img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/sooryanath-manikantan"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:soooryanath@gmail.com"><img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/soooryanath"><img src="https://img.shields.io/badge/GitHub-5A189A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/sooryanathmanikantan"><img src="https://img.shields.io/badge/GitHub-5A189A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=soooryanath&color=7B2CBF&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-  <img src="https://img.shields.io/github/followers/soooryanath?color=5A189A&style=flat-square&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/soooryanath?color=7B2CBF&style=flat-square&label=STARS" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=sooryanathmanikantan&color=7B2CBF&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://img.shields.io/github/followers/sooryanathmanikantan?color=5A189A&style=flat-square&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/sooryanathmanikantan?color=7B2CBF&style=flat-square&label=STARS" alt="Stars" />
 </div>
 
 ---
@@ -106,7 +106,7 @@ Electronics Engineer with an MSc in Smart Electronic Systems from Riga Technical
 | **Function** | Processes CSV test logs for statistical summary calculations (mean, standard deviation, pass rates) |
 | **Output** | Auto-generates formatted PDF reports with histograms and pass/fail pie charts |
 | **Analytics** | Identifies measurement drift through automated time-series trend lines |
-| **Repository** | [soooryanath/measurement-analysis-tool](https://github.com/soooryanath/measurement-analysis-tool) |
+| **Repository** | [sooryanathmanikantan/measurement-analysis-tool](https://github.com/sooryanathmanikantan/measurement-analysis-tool) |
 
 </details>
 
@@ -122,7 +122,7 @@ Electronics Engineer with an MSc in Smart Electronic Systems from Riga Technical
 | **Function** | Implements real-time pass/fail tolerance checking on measurement channels |
 | **Reliability** | Robust HTTP/REST API handling with error handling and JSON parsing |
 | **Output** | Persistent logging architecture exporting synchronized CSV data for production test workflows |
-| **Repository** | [soooryanath/IoT-Sensor-Data-Acquisition-Suite](https://github.com/soooryanath/IoT-Sensor-Data-Acquisition-Suite) |
+| **Repository** | [sooryanathmanikantan/IoT-Sensor-Data-Acquisition-Suite](https://github.com/sooryanathmanikantan/IoT-Sensor-Data-Acquisition-Suite) |
 
 </details>
 
@@ -151,7 +151,7 @@ Electronics Engineer with an MSc in Smart Electronic Systems from Riga Technical
 | **Stack** | Python, CSV I/O |
 | **Function** | Validates raw voltage measurements against configurable min/max limits |
 | **Output** | Real-time pass/fail decision logic with precise timestamped CSV logging for every sample |
-| **Repository** | [soooryanath/Automated-Quality-Assurance-Data-Logger](https://github.com/soooryanath/Automated-Quality-Assurance-Data-Logger) |
+| **Repository** | [sooryanathmanikantan/Automated-Quality-Assurance-Data-Logger](https://github.com/sooryanathmanikantan/Automated-Quality-Assurance-Data-Logger) |
 
 </details>
 
@@ -204,7 +204,7 @@ Supported technical procurement and supply chain operations.
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soooryanath&theme=react-dark&bg_color=0D1117&color=7B2CBF&line=5A189A&point=ffffff&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sooryanathmanikantan&theme=react-dark&bg_color=0D1117&color=7B2CBF&line=5A189A&point=ffffff&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
