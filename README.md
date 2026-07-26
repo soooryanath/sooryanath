@@ -1,219 +1,68 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=7b2cbf&height=150&section=header&text=Soorya%20Nath%20Manikantan&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header banner" />
-</div>
+# 💫 About Me:
+🔭 I'm currently working on Hardware test automation projects using Python (PyVISA, SCPI) and building out my analog/mixed-signal IC design portfolio in Cadence Virtuoso<br>
+👯 I'm looking to collaborate on Open-source test automation tools, data acquisition frameworks, or hardware validation projects<br>
+🤝 I'm looking for help with Breaking into hardware test/validation and IC design roles in the EU — always open to referrals, advice, or connections in the semiconductor industry<br>
+🌱 I'm currently learning CI/CD test pipelines (pytest + GitHub Actions), SQL, and LabVIEW for hardware test automation<br>
+💬 Ask me about Analog/mixed-signal IC design, ADC architectures, Cadence Virtuoso, Python-based test automation, or job hunting as an international grad in the EU<br>
+⚡ Fun fact I co-authored a published research paper on Verilog-AMS modeling of a 14-bit pipelined ADC — and I can explain what an ADC does faster than most people can say "analog-to-digital converter"
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B2CBF&center=true&vCenter=true&width=435&lines=Electronics+Engineer;IC+Design+%26+Test+Automation;Hardware+Validation+Engineer;Data-Driven+QA" alt="Typing SVG" />
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sooryanath-manikantan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soooryanath@gmail.com)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/M.Sc.%20Smart%20Electronic%20Systems-7B2CBF?style=for-the-badge&logo=academic&logoColor=white" alt="Academic" />
-  <img src="https://img.shields.io/badge/Location-Riga,%20Latvia-5A189A?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-  <br><br>
-  <a href="https://github.com/sooryanathmanikantan"><img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/sooryanath-manikantan"><img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:soooryanath@gmail.com"><img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/sooryanathmanikantan"><img src="https://img.shields.io/badge/GitHub-5A189A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=sooryanathmanikantan&color=7B2CBF&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-  <img src="https://img.shields.io/github/followers/sooryanathmanikantan?color=5A189A&style=flat-square&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/sooryanathmanikantan?color=7B2CBF&style=flat-square&label=STARS" alt="Stars" />
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Electronics Engineer with an MSc in Smart Electronic Systems from Riga Technical University. My expertise spans the complete hardware lifecycle, with a focus on analog/mixed-signal IC design, hardware test automation, and data-driven quality analysis.
-
-* **IC Design & Simulation:** Proficient in Cadence Virtuoso vIC23.1, conducting schematic capture, Verilog HDL implementation, and transient analysis via ADE Explorer.
-* **Test & Automation:** Developing Python-based tools using PyVISA, SCPI, and REST/JSON for multi-channel data acquisition and automated testing.
-* **Data Analysis & QA:** Building QA pipelines in Python (pandas, NumPy) for statistical trend analysis, drift detection, and calculating process capability (Cpk).
-
-**Open To:** Roles emphasizing hardware validation, mixed-signal IC design, and automated test engineering where I can leverage my hands-on simulation and measurement experience.
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-### Design & Simulation
-<img src="https://img.shields.io/badge/Cadence-Virtuoso_vIC23.1-7B2CBF?style=for-the-badge" alt="Cadence" />
-<img src="https://img.shields.io/badge/Cadence-ADE_Explorer-5A189A?style=for-the-badge" alt="ADE" />
-<img src="https://img.shields.io/badge/Hardware-Verilog_HDL-7B2CBF?style=for-the-badge" alt="Verilog" />
-
-### Languages & Data Analysis
-<img src="https://skillicons.dev/icons?i=python,c,cpp" alt="Languages" />
-<br>
-<img src="https://img.shields.io/badge/Python-Pandas_|_NumPy_|_Matplotlib-5A189A?style=for-the-badge&logo=python&logoColor=white" alt="Data Analysis" />
-
-### Hardware & Lab Equipment
-<img src="https://skillicons.dev/icons?i=arduino,linux" alt="Hardware" />
-<br>
-<img src="https://img.shields.io/badge/Lab-Oscilloscope_|_DMM_|_PCB_Prototyping-7B2CBF?style=for-the-badge" alt="Lab" />
-
-### Automation & Tooling
-<img src="https://img.shields.io/badge/Test_Automation-PyVISA_|_SCPI_|_REST_API-5A189A?style=for-the-badge" alt="Test Auto" />
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,postman" alt="DevOps" />
-
-</div>
-
----
-
-## 🧠 Core Engineering Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| **IC Design & Simulation** | Advanced | Cadence Virtuoso vIC23.1, Verilog HDL, ADE Explorer, Transient Analysis, Schematic Capture |
-| **Test & Automation** | Advanced | PyVISA, Python, Multi-channel Data Acquisition, SCPI, HTTP/REST API |
-| **Data Analysis & QA** | Advanced | Python (pandas, NumPy, matplotlib), Process Capability (Cpk), Statistical Trend/Drift Analysis, Automated Reporting |
-| **Hardware Prototyping** | Intermediate | Oscilloscope, Digital Multimeter, PCB Prototyping, Arduino C/C++, Sensor Integration |
-
-</div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Cadence Virtuoso](https://img.shields.io/badge/Cadence_Virtuoso-7B2CBF?style=for-the-badge) ![Verilog HDL](https://img.shields.io/badge/Verilog_HDL-5A189A?style=for-the-badge) ![PyVISA/SCPI](https://img.shields.io/badge/PyVISA_%7C_SCPI-7B2CBF?style=for-the-badge)
 
 ---
 
 ## 🚀 Featured Projects
 
-<details>
-<summary><b>14-bit Pipelined ADC System Architecture (Master's Thesis)</b></summary>
+**[measurement-analysis-tool](https://github.com/sooryanathmanikantan/measurement-analysis-tool)** — Python/pandas QA suite calculating process capability (Cpk), auto-generating PDF reports with histograms and pass/fail pie charts from CSV test logs.
 
-> Designed a complete analog-to-digital converter system schematic in Cadence Virtuoso vIC23.1 as part of my master's thesis (2024–2026).
+**[IoT-Sensor-Data-Acquisition-Suite](https://github.com/sooryanathmanikantan/IoT-Sensor-Data-Acquisition-Suite)** — Multi-channel sensor data acquisition tool reading from 2 networked devices over Wi-Fi, with real-time pass/fail tolerance checking and REST/JSON error handling.
 
-| Aspect | Description |
-| :--- | :--- |
-| **Stack** | Cadence Virtuoso vIC23.1, Verilog HDL, ADE Explorer |
-| **Scope** | Integrated functional blocks: Sample & Hold, Multiplying DAC (MDAC), Sub-ADCs, and digital error correction logic |
-| **Performance** | Calculated and verified SNR, INL, DNL, and overall conversion accuracy |
-| **Validation** | Performed transient analysis to verify signal flow and timing relationships |
-| **Impact** | Analyzed signal integrity data to identify optimization opportunities for high-resolution data conversion |
+**[Automated-Quality-Assurance-Data-Logger](https://github.com/sooryanathmanikantan/Automated-Quality-Assurance-Data-Logger)** — Automated voltage tolerance checker with real-time pass/fail decision logic and timestamped CSV logging.
 
-*This project also led to a co-authored, published research paper — see Publications below.*
-</details>
-
-<details>
-<summary><b>Measurement Analysis & Visualization Tool</b></summary>
-
-> A Python-based QA suite to calculate process capability (Cpk) and evaluate raw CSV test logs.
-
-| Aspect | Description |
-| :--- | :--- |
-| **Stack** | Python, pandas, NumPy, matplotlib |
-| **Function** | Processes CSV test logs for statistical summary calculations (mean, standard deviation, pass rates) |
-| **Output** | Auto-generates formatted PDF reports with histograms and pass/fail pie charts |
-| **Analytics** | Identifies measurement drift through automated time-series trend lines |
-| **Repository** | [sooryanathmanikantan/measurement-analysis-tool](https://github.com/sooryanathmanikantan/measurement-analysis-tool) |
-
-</details>
-
-<details>
-<summary><b>Multi-Sensor Data Acquisition System</b></summary>
-
-> A test automation tool built in Python to simultaneously read multi-channel sensor data over Wi-Fi.
-
-| Aspect | Description |
-| :--- | :--- |
-| **Stack** | Python, REST API, JSON, CSV I/O |
-| **Scope** | Interfaces with 2 networked IoT devices in parallel |
-| **Function** | Implements real-time pass/fail tolerance checking on measurement channels |
-| **Reliability** | Robust HTTP/REST API handling with error handling and JSON parsing |
-| **Output** | Persistent logging architecture exporting synchronized CSV data for production test workflows |
-| **Repository** | [sooryanathmanikantan/IoT-Sensor-Data-Acquisition-Suite](https://github.com/sooryanathmanikantan/IoT-Sensor-Data-Acquisition-Suite) |
-
-</details>
-
-<details>
-<summary><b>Automated Touchless Sanitizer Dispensers</b></summary>
-
-> End-to-end hardware integration and electromechanical prototyping of touchless dispenser units.
-
-| Aspect | Description |
-| :--- | :--- |
-| **Stack** | Arduino, C/C++, Transistors, PCB, DC Water Pumps, IR & Ultrasonic Sensors, Servo Motors |
-| **Scope** | Designed, assembled, and deployed 4 working electromechanical prototypes |
-| **Performance** | Achieved 100% mechanical reliability in continuous field operations |
-| **Design** | Engineered discrete transistor-based control circuits to drive 12V DC water pumps from low-current IR sensor signals |
-| **Integration** | Integrated Arduino microcontrollers with ultrasonic sensors and 180-degree servo motors, executing physical wiring and PCB prototyping |
-
-</details>
-
-<details>
-<summary><b>Voltage Test Logger</b></summary>
-
-> An automated tolerance checker for validating raw voltage measurements.
-
-| Aspect | Description |
-| :--- | :--- |
-| **Stack** | Python, CSV I/O |
-| **Function** | Validates raw voltage measurements against configurable min/max limits |
-| **Output** | Real-time pass/fail decision logic with precise timestamped CSV logging for every sample |
-| **Repository** | [sooryanathmanikantan/Automated-Quality-Assurance-Data-Logger](https://github.com/sooryanathmanikantan/Automated-Quality-Assurance-Data-Logger) |
-
-</details>
+**14-bit Pipelined ADC System Architecture** (Master's Thesis) — Designed and validated a complete ADC system in Cadence Virtuoso, implementing Sample & Hold, MDAC, Sub-ADCs, and digital error correction in Verilog. Verified SNR, INL, DNL, and conversion accuracy through transient analysis.
 
 ---
 
-## 💼 Experience & Education
+## 📄 Publications
 
-### Purchase Engineer @ Simpson & Co. Ltd., Chennai, India
-*March 2022 – August 2022*
+**Pauls Eriks Sics, Soorya Nath Manikantan, Vladimirs Smolaninovs, and Maris Terauds**, *"Verilog-AMS based mathematical modeling of a pipelined 14-bit ADC,"* Institute of Photonics, Electronics and Telecommunications, Riga Technical University.
 
+Modeled a 3-bit sub-ADC stage of a 14-bit pipelined ADC architecture using Verilog-AMS, validating mixed-signal analogue-to-digital conversion behavior in simulation. Funded by the Latvian Council of Science (grant No. lzp-2024/1-0442).
+
+---
+
+## 🎓 Education
+
+**MSc Smart Electronic Systems** — Riga Technical University, Riga, Latvia (2026)
+Master's Thesis: 14-bit Pipelined ADC System Architecture
+
+**BE Electronics and Communication Engineering** — Vinayaka Missions Research Foundation, Salem, India (2022)
+
+---
+
+## 💼 Experience
+
+**Purchase Engineer** — Simpson & Co. Ltd., Chennai, India (Mar 2022 – Aug 2022)
 Supported technical procurement and supply chain operations.
-
-### Education
-* **MSc Smart Electronic Systems** – Riga Technical University, Riga, Latvia (2026)
-  * Master's Thesis: 14-bit Pipelined ADC System Architecture
-* **BE Electronics and Communication Engineering** – Vinayaka Missions Research Foundation, Salem, India (2022)
-
----
-
-## 🏆 Publications
-
-<div align="center">
-
-| | Details |
-| :---: | :--- |
-| 📄 **Published Research** | Pauls Eriks Sics, **Soorya Nath Manikantan**, Vladimirs Smolaninovs, and Maris Terauds, *"Verilog-AMS based mathematical modeling of a pipelined 14-bit ADC,"* Institute of Photonics, Electronics and Telecommunications, Riga Technical University |
-| ⭐ **Summary** | Modeled a 3-bit sub-ADC stage of a 14-bit pipelined ADC architecture using Verilog-AMS, validating mixed-signal analogue-to-digital conversion behavior in simulation |
-| 🚀 **Funding** | Latvian Council of Science, grant No. lzp-2024/1-0442 |
-
-</div>
 
 ---
 
 ## 📜 Certifications
 
-<div align="center">
-
-### Cadence Official Certifications
-<img src="https://img.shields.io/badge/Cadence-Virtuoso_Schematic_Editor_S1_(vIC23.1)-7B2CBF?style=for-the-badge" alt="Cadence S1" />
-<img src="https://img.shields.io/badge/Cadence-Virtuoso_ADE_Explorer_&_Assembler_S1-5A189A?style=for-the-badge" alt="Cadence ADE" />
-
-### Technical Certifications
-<img src="https://img.shields.io/badge/NPTEL-Internet_of_Things-7B2CBF?style=for-the-badge" alt="NPTEL" />
-<img src="https://img.shields.io/badge/Bharat_Sevak_Samaj-Embedded_Systems-5A189A?style=for-the-badge" alt="BSS" />
-
-</div>
+![Cadence](https://img.shields.io/badge/Cadence-Virtuoso_Schematic_Editor_S1_(vIC23.1)-7B2CBF?style=flat-square) ![Cadence](https://img.shields.io/badge/Cadence-ADE_Explorer_%26_Assembler_S1-5A189A?style=flat-square)
+![NPTEL](https://img.shields.io/badge/NPTEL-Internet_of_Things-7B2CBF?style=flat-square) ![BSS](https://img.shields.io/badge/Bharat_Sevak_Samaj-Embedded_Systems-5A189A?style=flat-square)
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sooryanathmanikantan&theme=react-dark&bg_color=0D1117&color=7B2CBF&line=5A189A&point=ffffff&hide_border=true" alt="Activity Graph" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sooryanathmanikantan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sooryanathmanikantan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sooryanathmanikantan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-## 🎯 Current Focus
-
-```yaml
-Learning: "CI/CD test pipelines, SQL, and LabVIEW for hardware test automation"
-Building: "Data-driven QA systems and multi-channel hardware acquisition tools"
-Applying: "Actively job hunting for Hardware Test / Validation / IC Design roles across the EU and beyond"
-Open To: "Hardware Engineering, IC Validation, and Test Automation Roles"
-```
+[![](https://komarev.com/ghpvc/?username=sooryanathmanikantan&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
